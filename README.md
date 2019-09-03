@@ -1,2 +1,2 @@
 # Love-Doctor
-This programm tells you the propability of two people loving each other
+This programm tells you the probability of two people loving each other
